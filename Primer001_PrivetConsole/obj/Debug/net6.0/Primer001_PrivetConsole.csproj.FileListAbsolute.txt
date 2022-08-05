@@ -1,0 +1,15 @@
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\bin\Debug\net6.0\Primer001_PrivetConsole.exe
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\bin\Debug\net6.0\Primer001_PrivetConsole.deps.json
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\bin\Debug\net6.0\Primer001_PrivetConsole.runtimeconfig.json
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\bin\Debug\net6.0\Primer001_PrivetConsole.dll
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\bin\Debug\net6.0\Primer001_PrivetConsole.pdb
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\Primer001_PrivetConsole.csproj.AssemblyReference.cache
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\Primer001_PrivetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\Primer001_PrivetConsole.AssemblyInfoInputs.cache
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\Primer001_PrivetConsole.AssemblyInfo.cs
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\Primer001_PrivetConsole.csproj.CoreCompileInputs.cache
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\Primer001_PrivetConsole.dll
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\refint\Primer001_PrivetConsole.dll
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\Primer001_PrivetConsole.pdb
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\Primer001_PrivetConsole.genruntimeconfig.cache
+C:\Users\bodte\Desktop\Vojd\Primer001_PrivetConsole\obj\Debug\net6.0\ref\Primer001_PrivetConsole.dll
